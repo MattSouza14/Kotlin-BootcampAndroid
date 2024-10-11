@@ -4,21 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9b414044-ea95-4eed-b2bd-b7e2152d196b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BootCamp Android.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arquivo_1.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arquivo_2.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.kt" afterDir="false" />
+    <list default="true" id="9b414044-ea95-4eed-b2bd-b7e2152d196b" name="Changes" comment="Inicio de Kotlin, testes com intelliJ">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ControleDeFluxo.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Funcoes.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Arquivo_1.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Arquivo_2.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Vetores_Matrizes.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/TiposDeVariaveis.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,9 +28,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 8
-}]]></component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;MattSouza14&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/MattSouza14/Kotlin-BootcampAndroid.git&quot;,
+    &quot;accountId&quot;: &quot;fbe7d9b7-ef89-4a1b-b22b-61b0393cced5&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
   <component name="ProjectId" id="2nG8p8n4wj1F8DD1AqyJIuRpQO3" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -48,29 +53,32 @@
   "keyToString": {
     "Kotlin.Arquivo_1Kt.executor": "Run",
     "Kotlin.Arquivo_2Kt.executor": "Run",
+    "Kotlin.ControleDeFluxoKt.executor": "Run",
     "Kotlin.MainKt.executor": "Run",
+    "Kotlin.TiposDeVariaveisKt.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Kotlin.Arquivo_2Kt">
-    <configuration name="Arquivo_1Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Arquivo_1Kt" />
+  <component name="RunManager" selected="Kotlin.ControleDeFluxoKt">
+    <configuration name="ControleDeFluxoKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ControleDeFluxoKt" />
       <module name="BootCamp Android" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Arquivo_2Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Arquivo_2Kt" />
+    <configuration name="TiposDeVariaveisKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TiposDeVariaveisKt" />
       <module name="BootCamp Android" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MainKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MainKt" />
+    <configuration name="Vetores_MatrizesKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Vetores_MatrizesKt" />
       <module name="BootCamp Android" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -78,9 +86,9 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Kotlin.Arquivo_2Kt" />
-        <item itemvalue="Kotlin.Arquivo_1Kt" />
-        <item itemvalue="Kotlin.MainKt" />
+        <item itemvalue="Kotlin.ControleDeFluxoKt" />
+        <item itemvalue="Kotlin.TiposDeVariaveisKt" />
+        <item itemvalue="Kotlin.Vetores_MatrizesKt" />
       </list>
     </recent_temporary>
   </component>
@@ -93,6 +101,15 @@
       <option name="presentableId" value="Default" />
       <updated>1728588237817</updated>
     </task>
+    <task id="LOCAL-00001" summary="Inicio de Kotlin, testes com intelliJ">
+      <option name="closed" value="true" />
+      <created>1728590232207</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1728590232207</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -105,5 +122,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Inicio de Kotlin, testes com intelliJ" />
+    <option name="LAST_COMMIT_MESSAGE" value="Inicio de Kotlin, testes com intelliJ" />
   </component>
 </project>
