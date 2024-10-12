@@ -4,10 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9b414044-ea95-4eed-b2bd-b7e2152d196b" name="Changes" comment="Estudo da sintexa kotlin">
+    <list default="true" id="9b414044-ea95-4eed-b2bd-b7e2152d196b" name="Changes" comment="Funções e vetores">
+      <change afterPath="$PROJECT_DIR$/src/AnyUnitNothing.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeituraDeDados.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TratamentoEmStrings.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TratamentosDeExceções.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Funcoes.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Funções.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Vetores_Matrizes.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Vetores_Matrizes.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,8 +53,11 @@
     "Kotlin.Arquivo_2Kt.executor": "Run",
     "Kotlin.ControleDeFluxoKt.executor": "Run",
     "Kotlin.FunçõesKt.executor": "Run",
+    "Kotlin.LeituraDeDadosKt.executor": "Run",
     "Kotlin.MainKt.executor": "Run",
     "Kotlin.TiposDeVariaveisKt.executor": "Run",
+    "Kotlin.TratamentoEmStringsKt.executor": "Run",
+    "Kotlin.TratamentosDeExceçõesKt.executor": "Run",
     "Kotlin.Vetores_MatrizesKt.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -60,14 +65,7 @@
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Kotlin.Vetores_MatrizesKt">
-    <configuration name="ControleDeFluxoKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ControleDeFluxoKt" />
-      <module name="BootCamp Android" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Kotlin.TratamentosDeExceçõesKt">
     <configuration name="FunçõesKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="FunçõesKt" />
       <module name="BootCamp Android" />
@@ -75,8 +73,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TiposDeVariaveisKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TiposDeVariaveisKt" />
+    <configuration name="LeituraDeDadosKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeituraDeDadosKt" />
+      <module name="BootCamp Android" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TratamentoEmStringsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TratamentoEmStringsKt" />
+      <module name="BootCamp Android" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TratamentosDeExceçõesKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TratamentosDeExceçõesKt" />
       <module name="BootCamp Android" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -91,10 +103,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.TratamentosDeExceçõesKt" />
+        <item itemvalue="Kotlin.LeituraDeDadosKt" />
+        <item itemvalue="Kotlin.TratamentoEmStringsKt" />
         <item itemvalue="Kotlin.Vetores_MatrizesKt" />
         <item itemvalue="Kotlin.FunçõesKt" />
-        <item itemvalue="Kotlin.ControleDeFluxoKt" />
-        <item itemvalue="Kotlin.TiposDeVariaveisKt" />
       </list>
     </recent_temporary>
   </component>
@@ -123,7 +136,15 @@
       <option name="project" value="LOCAL" />
       <updated>1728682284268</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Funções e vetores">
+      <option name="closed" value="true" />
+      <created>1728758980410</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1728758980410</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -140,6 +161,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Inicio de Kotlin, testes com intelliJ" />
     <MESSAGE value="Estudo da sintexa kotlin" />
-    <option name="LAST_COMMIT_MESSAGE" value="Estudo da sintexa kotlin" />
+    <MESSAGE value="Funções e vetores" />
+    <option name="LAST_COMMIT_MESSAGE" value="Funções e vetores" />
   </component>
 </project>
