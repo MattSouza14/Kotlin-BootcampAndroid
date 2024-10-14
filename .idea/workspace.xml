@@ -4,11 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9b414044-ea95-4eed-b2bd-b7e2152d196b" name="Changes" comment="Funções e vetores">
-      <change afterPath="$PROJECT_DIR$/src/AnyUnitNothing.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeituraDeDados.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TratamentoEmStrings.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TratamentosDeExceções.kt" afterDir="false" />
+    <list default="true" id="9b414044-ea95-4eed-b2bd-b7e2152d196b" name="Changes" comment="Tratamenos de erros,execeções e leitura de dados">
+      <change afterPath="$PROJECT_DIR$/src/Init.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OrientaçãoObjetos.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Planet.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -20,6 +20,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Kotlin File" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -49,12 +50,15 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Main.executor": "Run",
     "Kotlin.Arquivo_1Kt.executor": "Run",
     "Kotlin.Arquivo_2Kt.executor": "Run",
     "Kotlin.ControleDeFluxoKt.executor": "Run",
     "Kotlin.FunçõesKt.executor": "Run",
+    "Kotlin.InitKt.executor": "Run",
     "Kotlin.LeituraDeDadosKt.executor": "Run",
     "Kotlin.MainKt.executor": "Run",
+    "Kotlin.OrientaçãoObjetosKt.executor": "Run",
     "Kotlin.TiposDeVariaveisKt.executor": "Run",
     "Kotlin.TratamentoEmStringsKt.executor": "Run",
     "Kotlin.TratamentosDeExceçõesKt.executor": "Run",
@@ -65,9 +69,16 @@
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Kotlin.TratamentosDeExceçõesKt">
-    <configuration name="FunçõesKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FunçõesKt" />
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="BootCamp Android" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InitKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="InitKt" />
       <module name="BootCamp Android" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -80,8 +91,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TratamentoEmStringsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TratamentoEmStringsKt" />
+    <configuration name="OrientaçãoObjetosKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OrientaçãoObjetosKt" />
       <module name="BootCamp Android" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -94,20 +105,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Vetores_MatrizesKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Vetores_MatrizesKt" />
-      <module name="BootCamp Android" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Kotlin.InitKt" />
+        <item itemvalue="Kotlin.OrientaçãoObjetosKt" />
         <item itemvalue="Kotlin.TratamentosDeExceçõesKt" />
         <item itemvalue="Kotlin.LeituraDeDadosKt" />
-        <item itemvalue="Kotlin.TratamentoEmStringsKt" />
-        <item itemvalue="Kotlin.Vetores_MatrizesKt" />
-        <item itemvalue="Kotlin.FunçõesKt" />
       </list>
     </recent_temporary>
   </component>
@@ -144,7 +148,15 @@
       <option name="project" value="LOCAL" />
       <updated>1728758980410</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Tratamenos de erros,execeções e leitura de dados">
+      <option name="closed" value="true" />
+      <created>1728773507789</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1728773507789</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -162,6 +174,7 @@
     <MESSAGE value="Inicio de Kotlin, testes com intelliJ" />
     <MESSAGE value="Estudo da sintexa kotlin" />
     <MESSAGE value="Funções e vetores" />
-    <option name="LAST_COMMIT_MESSAGE" value="Funções e vetores" />
+    <MESSAGE value="Tratamenos de erros,execeções e leitura de dados" />
+    <option name="LAST_COMMIT_MESSAGE" value="Tratamenos de erros,execeções e leitura de dados" />
   </component>
 </project>
