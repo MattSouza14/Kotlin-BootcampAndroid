@@ -26,5 +26,5 @@ fun main() {
     account.deposit(500.0)
     account.withdraw(200.0)
     println("Saldo Atual: $${account.getBalance()}")
-    account.withdraw(400.0) // Tentativa de saque sem fundos suficientes
+    account.withdraw(400.0)
 }

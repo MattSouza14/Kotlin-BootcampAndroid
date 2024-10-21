@@ -69,9 +69,23 @@
     &quot;last_opened_file_path&quot;: &quot;C:/Users/Mateus/IdeaProjects/BootCamp Android&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="Kotlin.BankAccountKt">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="BootCamp Android" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AnimalKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AnimalKt" />
+      <module name="BootCamp Android" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BankAccountKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BankAccountKt" />
       <module name="BootCamp Android" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -84,13 +98,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LeituraDeDadosKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LeituraDeDadosKt" />
-      <module name="BootCamp Android" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="OrientaçãoObjetosKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="OrientaçãoObjetosKt" />
       <module name="BootCamp Android" />
@@ -98,20 +105,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TratamentosDeExceçõesKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TratamentosDeExceçõesKt" />
-      <module name="BootCamp Android" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.BankAccountKt" />
+        <item itemvalue="Kotlin.AnimalKt" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Kotlin.InitKt" />
         <item itemvalue="Kotlin.OrientaçãoObjetosKt" />
-        <item itemvalue="Kotlin.TratamentosDeExceçõesKt" />
-        <item itemvalue="Kotlin.LeituraDeDadosKt" />
       </list>
     </recent_temporary>
   </component>
